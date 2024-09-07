@@ -1,3 +1,5 @@
+<iframe width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/25250"></iframe>
+
 ## Project Management
 
 This is a powerful tool designed specifically for IntelliJ IDEA users, aimed at helping developers better organize and manage their projects. The plugin offers a rich set of features that enable you to easily group, sort, add descriptions, and set labels for your projects, thereby significantly enhancing their manageability and maintainability.
@@ -9,3 +11,8 @@ This is a powerful tool designed specifically for IntelliJ IDEA users, aimed at 
 - Condition Descriptions: Supports adding detailed condition descriptions to projects, helping team members quickly understand the background, status, and relevant requirements of the project.
 - Label Setting: By setting labels, you can add additional metadata to projects, facilitating subsequent searching and categorization.
 - Enhanced Project View: Provides an enhanced project view that makes browsing, searching, and filtering projects more intuitive and efficient.
+- Scan Directory: Add all folders in the specified directory to the project group view.
+
+#### [https://plugins.jetbrains.com/plugin/25250-manage-projects](https://plugins.jetbrains.com/plugin/25250-manage-projects)
+
+
