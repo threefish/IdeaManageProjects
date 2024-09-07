@@ -1,4 +1,5 @@
-<iframe width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/25250"></iframe>
+#### [Get from Marketplace](https://plugins.jetbrains.com/plugin/25250-manage-projects)
+
 
 ## Project Management
 
@@ -13,6 +14,5 @@ This is a powerful tool designed specifically for IntelliJ IDEA users, aimed at 
 - Enhanced Project View: Provides an enhanced project view that makes browsing, searching, and filtering projects more intuitive and efficient.
 - Scan Directory: Add all folders in the specified directory to the project group view.
 
-#### [https://plugins.jetbrains.com/plugin/25250-manage-projects](https://plugins.jetbrains.com/plugin/25250-manage-projects)
 
 
